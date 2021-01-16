@@ -1,0 +1,38 @@
+h1 {
+    font-size: 100px;
+   background-image: url(depositphotos_8098048-stock-photo-knitted-woolen-background.jpg)
+    
+}
+
+h3 {
+    font-size: 50px;
+    background-color:antiquewhite;
+    font-family: cursive;
+    color: brown;
+}
+h2 {
+    font-size: 50px;
+}
+.intro {
+    font-size: 30px;
+    font-family: system-ui;
+}
+ p {
+    font-size: 25px;
+    font-family: monospace
+}
+
+footer {
+    font-size: 30px;
+    font-family: monospace;
+    background-color: OldLace;
+    
+}
+
+main {
+    background-color:floralwhite
+}
+
+section {
+    background-color: Seashell
+}
